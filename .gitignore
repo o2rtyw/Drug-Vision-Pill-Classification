@@ -1,0 +1,10 @@
+
+Hap_Modelleri_V3/
+YapayZeka_Hap_Prohesi/
+Data Combined/
+*.h5
+*.pth
+*.pkl
+*.joblib
+.ipynb_checkpoints/
+__pycache__/
